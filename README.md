@@ -1,6 +1,7 @@
 # Hacktrick2017
-Python for Hackers course sample codes.
-
-# EncryptionKeyGenerator
-# EncryptionKeyGenerator
 # Python-Examples
+These are elementary python sample codes which we wrote in the training of Python for Hackers course.
+
+
+
+
